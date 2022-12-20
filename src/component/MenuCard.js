@@ -28,12 +28,14 @@ const MenuCard = ({ menuData }) => {
            </div>
            <span className="card-tag subtle">Order Now</span>
            </div>
+          
        </div>
-    
+       
     </>
-    );
         })}
     </section>
+     Made with  💖 by Sarita D
+   
     </>
   );
   };

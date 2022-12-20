@@ -111,8 +111,8 @@ const Menu = [{
     id: 13,
     image: "images/momos.jpg",
     name: "Momos",
-    category: "breakfast",
-    price: "Rs 30",
+    category: "snacks",
+    price: "Rs 60",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   }, 
